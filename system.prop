@@ -83,3 +83,6 @@ persist.vendor.sensors.enable.mag_filter=true
 # Subsystem ramdump
 persist.vendor.ssr.enable_ramdumps=0
 persist.vendor.ssr.restart_level=ALL_ENABLE
+
+# WFD Fix
+debug.sf.enable_hwc_vds=1
